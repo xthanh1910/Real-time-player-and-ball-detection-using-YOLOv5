@@ -7,7 +7,13 @@
 </div>
 
 
-Đây là cấu trúc folder của dataset:
+
+
+Đây là yêu cầu cấu trúc folder của repo YOLOv5:
+
+![abc](images/11.png)
+
+Đây là cấu trúc folder dataset của mình:
 
 ![abc](images/10.png)
 
@@ -24,5 +30,16 @@
 ![abc](images/6.png)
 
 ![abc](images/7.png)
+
+
+
+
+Đây là yêu cầu file label của repo YOLOv5:
+
+![abc](images/12.png)
+
+
+
+Đây là file label của mình:
 
 ![abc](images/8.png)
