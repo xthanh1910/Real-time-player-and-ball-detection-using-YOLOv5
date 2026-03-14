@@ -16,7 +16,7 @@
 
   - mỗi file mp4 đều kéo dài xấp xĩ 1p và có 25fps => mỗi video có 1500 frame
 
-  - file json tương ứng vs file mp4 sẽ chú thích cho 1500 frame trong file đó
+  - file json tương ứng vs file mp4 sẽ chú thích rất nhiều thứ cho 1500 frame đó (file json này do 1 công ty chuyên đánh nhãn thực hiện, file này không chỉ đánh nhãn cho bài toán obj detection mà còn cho cả bài toán classification số áo đấu, obj tracking)
 
 
 Đây là yêu cầu tổ chức folder dataset của repo YOLOv5:
