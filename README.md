@@ -62,9 +62,9 @@ YOLOv5 requires one `.txt` file per image. Each line in the file represents a si
 Data from complex JSON files were extracted and converted into the precise `.txt` format required for model training.
 
 **Format Comparison:**
-* **System Requirement**: 
+* **YOLOv5 Requirement**: 
 ![Label Requirement](images/12.png)
-* **Actual Processed Label**:
+* **Our Processed Label**:
 ![Our Label](images/8.png)
 
 ---
